@@ -34,7 +34,7 @@ The platform also includes:
 - **Theme:** The Coffee Shop Theme + Elementor  
 - **Plugins:** WooCommerce, Payment Gateway Plugin, AI Chat Plugin, TranslatePress  
 - **Backend:** PHP (WordPress Core), MySQL Database  
-- **Frontend:** HTML, CSS  
+- **Frontend:** HTML, CSS, JavaScript  
 - **Development:** XAMPP Localhost  
 - **Deployment:** InfinityFree Hosting  
 
@@ -83,4 +83,4 @@ Many cafés lack a digital system for menu browsing and online ordering. Coffee 
 
 ---
 
-## 📌 Project Structure
+
